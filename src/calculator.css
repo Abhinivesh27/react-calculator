@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    
+}
+
+.calculator {
+    width: 400px;
+    height: 350px;
+    margin: 50px;
+    position: relative;
+    border-color: black;
+    color: black;
+    border: 20px;
+}

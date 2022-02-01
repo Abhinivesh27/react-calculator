@@ -1,0 +1,12 @@
+
+.Display {
+    display: flex;
+    color: whitesmoke;
+    justify-content: center;
+    align-items: center;
+    height: 20%;
+    font-size: 24px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    background: linear-gradient(150deg, #39ef74, #4600f1 100%);
+}
